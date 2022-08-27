@@ -34,7 +34,7 @@ function App() {
         progress={progress} 
       />
       <Routes>
-        <Route path='/crypto' element={<Coins coins={coins} />} />
+        <Route path='/' element={<Coins coins={coins} />} />
         <Route path='/coin' element={<Coin />}>
           <Route path=':coinId' element={<Coin />} />
         </Route>
