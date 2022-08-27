@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/crypco/static/css/main.eb5048c9.css",
+    "main.js": "/crypco/static/js/main.498243c4.js",
+    "static/media/bg1.jpg": "/crypco/static/media/bg1.19534278c46ab7940592.jpg",
+    "index.html": "/crypco/index.html",
+    "main.eb5048c9.css.map": "/crypco/static/css/main.eb5048c9.css.map",
+    "main.498243c4.js.map": "/crypco/static/js/main.498243c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb5048c9.css",
+    "static/js/main.498243c4.js"
+  ]
+}
