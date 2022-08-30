@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/crypco/static/css/main.eb5048c9.css",
-    "main.js": "/crypco/static/js/main.f7c603b0.js",
+    "main.js": "/crypco/static/js/main.63c1fbd2.js",
     "static/media/bg1.jpg": "/crypco/static/media/bg1.19534278c46ab7940592.jpg",
     "index.html": "/crypco/index.html",
     "main.eb5048c9.css.map": "/crypco/static/css/main.eb5048c9.css.map",
-    "main.f7c603b0.js.map": "/crypco/static/js/main.f7c603b0.js.map"
+    "main.63c1fbd2.js.map": "/crypco/static/js/main.63c1fbd2.js.map"
   },
   "entrypoints": [
     "static/css/main.eb5048c9.css",
-    "static/js/main.f7c603b0.js"
+    "static/js/main.63c1fbd2.js"
   ]
 }
