@@ -6,7 +6,7 @@ import './Navbar.css'
 const Navbar = () => {
     return (
         <>
-         <Link to='/'>
+         <Link to='/crypco'>
             <div className='navbar'>
                 <BiCoinStack className='icon' />
                 <h1> CRYPco</h1><Link to='/crypto'><h1 className='news'>| News</h1></Link>
